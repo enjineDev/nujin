@@ -1,18 +1,5 @@
-![SupaNuxt SaaS](assets/images/supanuxt_logo_200.png)
-
-# SupaNuxt SaaS
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/19d67f94-afdc-4b79-8490-600be26e85de/deploy-status)](https://app.netlify.com/sites/nuxt3-saas-boilerplate/deploys)
-
-## Demo Sites
-
-Demo site [here](https://nuxt3-saas-boilerplate.netlify.app/)
-
-Pottery Helper [here](https://potteryhelper.com/)
-
-## Community
-
-Discord [here](https://discord.gg/3hWPDTA4kD)
+# nujin
+The ultimate fullstack solution SaaS ready.
 
 ## Tech Stack
 
