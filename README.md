@@ -111,10 +111,6 @@ The focus is on separation of concerns and avoiding vendor lock in.
 
 <img src="assets/images/technical_architecture.png">
 
-### Walkthrough
-
-[<img src="https://img.youtube.com/vi/AFfbGuJYRqI/hqdefault.jpg">](https://www.youtube.com/watch?v=AFfbGuJYRqI)
-
 ### Tricky Decisions
 
 _Composition over options API_ - I have decided to use composition api and setup functions accross the board including components, pages and Pinia stores. I was resistant at first, especially with the stores as I was used to Vuex but have come to the conclusion that it is easier to go one approach all over. It's also the latest and greatest and folks don't like to use a starter that starts behind the cutting edge.
